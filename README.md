@@ -10,4 +10,4 @@
 - Python
 - Pygame
 
-![image alt](https://github.com/Anandhigovindaraj/alien_invision/blob/e76e4d63ebf90ebbd6957dc3cbfe890c1a4a1654/game.png.jpg)
+![image alt] (https://github.com/Anandhigovindaraj/alien_invision/blob/36c1f3cca91f92ae7d0842c65e0b8007f642109a/game.jpg)
