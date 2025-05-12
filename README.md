@@ -10,4 +10,5 @@
 - Python
 - Pygame
 
-![screenshot] (https://github.com/Anandhigovindaraj/alien_invision/blob/dc83b3a93219bbba3d4cb61561ca3b8e1828d92f/game.jpg)
+<img src="https://github.com/Anandhigovindaraj/alien_invision/raw/dc83b3a93219bbba3d4cb61561ca3b8e1828d92f/game.jpg" width="600">
+
